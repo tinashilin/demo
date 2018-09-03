@@ -1,2 +1,4 @@
 owe: lottery
-  
+
+server:
+  port: 8888
