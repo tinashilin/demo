@@ -1,4 +1,7 @@
 owe: lottery
 
-server:
-  port: 8888
+config:
+  eureka:
+    server:
+      context-path: /eurekaConfig
+      port: 8160
