@@ -1,7 +1,9 @@
-owe: lottery
-
 config:
   eureka:
     server:
       context-path: /eurekaConfig
       port: 8160
+  security:
+    user:
+      name: admin
+      password: admin
