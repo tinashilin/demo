@@ -12,3 +12,13 @@ config:
 springcloud:
   config:
     password: '{cipher}AQAPKN8QlXSL4lLmWnlS0Ig7bnmYw+Ql7K1aI25ttYpcqSHSJfHtHAbW4RPTOA3yeIMfB4MEW47tNDopaRydkArHyIRL+1yoB9FvVS0B1I2qQwjpmov+L3UIa9PYo1hrEeKn/Gkq6o6y4Liy5AyH1zGDzQfWEDF87luPJUqGL8JyxwOvNqCOllspDYa0pWLfvrhMwkMe5sfB21jbG8jlZcZvABn2BW8wAOK+9gfvexr8Ydkfrpq/a8w6B0hH9j+5Lz8VTg6BNgEJtvUs66x/PoE9Z+dnIS6bVjbpI5skMB/9p2M5A6y6ShtDADl8o2tPUH58Sc286OZjm1nh9IHt0tuo3gkKsgdee/0jDoJGUvcjXYu5AdwuggCTJRtSQEl3h8U='
+      git:
+        user: ChangJing89
+        pwd: C890408j
+
+spring:
+  security:
+    config:
+      user:
+        name: configAdmin
+        password: configAdmin00
