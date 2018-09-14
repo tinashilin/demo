@@ -6,7 +6,7 @@ springcloud:
      pwd: '{cipher}AQCb8QX+OzaHnQ8zSLQRN5xRXQ1XpxX2DgmMqAFhFQZA5KFTj6d7uACQZMi0B/8wZyBd7fFU2a+I1KvQtwl3h1CV2fH/gscYzYl7CEi8DItEjC8NJdQC/4Ug8a5ruyEl4Ke57Fxt03rFbpAQ8hsAZzSoZ2tuteov3XKcJHPHNncEnKsTjIjvkjckE32dZk1wSY+frOlByIApGiFKKZFxJY5JZYCgdvRvJZFd/cdWKKZthLOMgXBubvseRGMZq5fm1H7LVQuMlt9uPlrDa/fWxF3HJhhUdgzIdJFviE3p6nYLKg7Vc9wvm3+qEvoi8/yYxQHFBQ5/MEYaU2IUH07He6IrEc65+kwFf0Fryj891iWSfxnsQJkEP3wtaWxVXogrG7U='  
   eureka:
     server:
-      context-path: /eurekaConfig
+      context-path: /eureka-server
       port: 8160
 
 spring:
