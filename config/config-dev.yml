@@ -17,7 +17,7 @@ spring:
         pwd: '{cipher}AQBmC+XAaIcWJzMEuqUekikvcQRpOJJZIT41tsvzsH7iu8WX19PlqtQs9Xt+80BL5so8zuT1S9BTXU9V+V891U35igFMo8vuOalqyb0tHO+kXqDEQRNTJ5eWJENMXCsJBqd+n/QUyJdMmd/ElB0Lug5mc2TkIAlReX5EuqKBfpbSvcT3MiRAdbfaxu/T6T6ElZbdyTU1VW16r/iyi48bQOOnV/pnRCiE7rRoUN6HA9wEafklTKF0zdVHM/qQ+CzuNHh7g+HpnkfWFfFyjM2kXW3Sjga3u+nMkY4fmB3YiTu5lNIbcbSbAKVeXTTwb4Wsef7ow1J6f+Ao3oZ+TLC0jQ7tTBwL6jH8DceWCcFOqa4HqIFh0SIBPj3DeNDUrlvDYoA='   
     eureka:
       user:
-        name: eurekaAdmin 
+        name: user 
         pwd: '{cipher}AQCN+k/dN8MfCWz/Ivk8VJTDEnJUEPSB0L1DYuQvg1bKrQG9zZAiGU5uyXT747J2gn2dLdNYfGf2WFwkCV/X0JjU8hHGYV9FJY/vwyEV91EDQ2DIYJINlcCWdsXlP6RS7xw81ZjtRH6oQk3QuTNbzRGiBr7GrBajjB7TOGOjiPqFxVA2qkF9wsypMivZF2eKpA8NMZS2MM1F8Za0DXllEcEHXxKfhgAuVMMDKYTvPGhcytJzYFe+yk2Hv/XZi4YzrniN2idQXGt/Ott6nREo42DnTvTG/RTPtr5oKAJ8enxQTGrhORU9d+oTaB0z/SS8GB3ry2SG+toNoUfvEHsIAXtCz30Nu9Ill3BnPjNzZGnZCeRA+8+DkOmQZpZyPv+GPL8='
   datasource:
     userName: root
