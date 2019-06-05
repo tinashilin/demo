@@ -3,22 +3,11 @@ springcloud:
     pwd: '{cipher}AQAPKN8QlXSL4lLmWnlS0Ig7bnmYw+Ql7K1aI25ttYpcqSHSJfHtHAbW4RPTOA3yeIMfB4MEW47tNDopaRydkArHyIRL+1yoB9FvVS0B1I2qQwjpmov+L3UIa9PYo1hrEeKn/Gkq6o6y4Liy5AyH1zGDzQfWEDF87luPJUqGL8JyxwOvNqCOllspDYa0pWLfvrhMwkMe5sfB21jbG8jlZcZvABn2BW8wAOK+9gfvexr8Ydkfrpq/a8w6B0hH9j+5Lz8VTg6BNgEJtvUs66x/PoE9Z+dnIS6bVjbpI5skMB/9p2M5A6y6ShtDADl8o2tPUH58Sc286OZjm1nh9IHt0tuo3gkKsgdee/0jDoJGUvcjXYu5AdwuggCTJRtSQEl3h8U='
     git:
      user: ChangJing89
-     pwd: '{cipher}AQCb8QX+OzaHnQ8zSLQRN5xRXQ1XpxX2DgmMqAFhFQZA5KFTj6d7uACQZMi0B/8wZyBd7fFU2a+I1KvQtwl3h1CV2fH/gscYzYl7CEi8DItEjC8NJdQC/4Ug8a5ruyEl4Ke57Fxt03rFbpAQ8hsAZzSoZ2tuteov3XKcJHPHNncEnKsTjIjvkjckE32dZk1wSY+frOlByIApGiFKKZFxJY5JZYCgdvRvJZFd/cdWKKZthLOMgXBubvseRGMZq5fm1H7LVQuMlt9uPlrDa/fWxF3HJhhUdgzIdJFviE3p6nYLKg7Vc9wvm3+qEvoi8/yYxQHFBQ5/MEYaU2IUH07He6IrEc65+kwFf0Fryj891iWSfxnsQJkEP3wtaWxVXogrG7U='  
+     pwd: C890408j  
   eureka:
     server:
       context-path: /eureka-server
       port: 8160
-
-spring:
-  security:
-    config:
-      user:
-        name: configAdmin
-        pwd: '{cipher}AQBmC+XAaIcWJzMEuqUekikvcQRpOJJZIT41tsvzsH7iu8WX19PlqtQs9Xt+80BL5so8zuT1S9BTXU9V+V891U35igFMo8vuOalqyb0tHO+kXqDEQRNTJ5eWJENMXCsJBqd+n/QUyJdMmd/ElB0Lug5mc2TkIAlReX5EuqKBfpbSvcT3MiRAdbfaxu/T6T6ElZbdyTU1VW16r/iyi48bQOOnV/pnRCiE7rRoUN6HA9wEafklTKF0zdVHM/qQ+CzuNHh7g+HpnkfWFfFyjM2kXW3Sjga3u+nMkY4fmB3YiTu5lNIbcbSbAKVeXTTwb4Wsef7ow1J6f+Ao3oZ+TLC0jQ7tTBwL6jH8DceWCcFOqa4HqIFh0SIBPj3DeNDUrlvDYoA='   
-    eureka:
-      user:
-        name: user 
-        pwd: '{cipher}AQCN+k/dN8MfCWz/Ivk8VJTDEnJUEPSB0L1DYuQvg1bKrQG9zZAiGU5uyXT747J2gn2dLdNYfGf2WFwkCV/X0JjU8hHGYV9FJY/vwyEV91EDQ2DIYJINlcCWdsXlP6RS7xw81ZjtRH6oQk3QuTNbzRGiBr7GrBajjB7TOGOjiPqFxVA2qkF9wsypMivZF2eKpA8NMZS2MM1F8Za0DXllEcEHXxKfhgAuVMMDKYTvPGhcytJzYFe+yk2Hv/XZi4YzrniN2idQXGt/Ott6nREo42DnTvTG/RTPtr5oKAJ8enxQTGrhORU9d+oTaB0z/SS8GB3ry2SG+toNoUfvEHsIAXtCz30Nu9Ill3BnPjNzZGnZCeRA+8+DkOmQZpZyPv+GPL8='
-  datasource:
-    userName: root
-    pwd: '{cipher}AQAnKfZsoY1McU29+HTPhaXNFjooYS+F5WwhazPP3C7PGhrv6LckPzLhiIalqaCjYcKe8mZnE+6JvKJbrMcI2FE3nmD8j2DSZtXZ6/Kpgu0JxE80G2W8LJL1WCpSN3AmrE9KsU6QXAoa1cfhQBUkjeHzX+yLXRcpVFCmgR8+aA/21IoKqNL0gqziZhQ5HsRA5U00ttl4bO6RxHuq7Dr0q2J8nuU8+Y9Gev7NUeySxDpwcI+w5iS+wgoon2pJtd0kCGkI9u4JHXH4KYfx7xP2uFVINl0IZWk2FZotfQrxhPnpsMUKWLtntXf1G1VLgvbtWq8ygm6wvqXEYA0QO7de3mRRNJQlXMhvuWmIUQz3tjxEBL3L8RdWxd/IxEpVdD81bVY='
+    user:
+      name: user 
+      pwd: user
