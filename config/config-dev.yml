@@ -5,9 +5,7 @@ springcloud:
      user: ChangJing89
      pwd: C890408j  
   eureka:
-    server:
-      context-path: /eureka-server
-      port: 8160
+    port: 8011
     user:
       name: user 
       pwd: user
