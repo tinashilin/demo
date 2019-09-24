@@ -3,3 +3,4 @@ config:
     git: 
       user: Changjing89
       pwd: C890408j
+      label: master
