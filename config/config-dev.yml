@@ -1,11 +1,13 @@
-springcloud:
-  config:
-    server:
-      port: 8010
+config:
+  server:
+    port: 8010
     git:
+     uri: https://github.com/ChangJing89/demo
      user: ChangJing89
      pwd: C890408j  
+     label: master
   eureka:
+    instance: localhost
     port: 8011
     user:
       name: user 
