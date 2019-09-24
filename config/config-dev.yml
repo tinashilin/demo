@@ -6,12 +6,12 @@ config:
      user: ChangJing89
      pwd: C890408j  
      label: master
-  eureka:
-    instance: localhost
-    port: 8011
-    user:
-      name: user 
-      pwd: user
+eureka:
+  instance: localhost
+  port: 8011
+  user:
+    name: user 
+    pwd: user
 
 mysql:
   url: jdbc:mysql://localhost:3306/sys?createDatabaseIfNotExist=true&useUnicode=true&characterEncoding=utf-8&autoReconnect=true&useSSL=false&serverTimezone=Asia/Shanghai
