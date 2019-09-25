@@ -1,6 +1,6 @@
 config:
   server:
     git: 
-      user: Changjing89
-      pwd: C890408j
+      user: root
+      pwd: 002526
       label: master
